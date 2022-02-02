@@ -37,3 +37,5 @@ lambda expressions
 map and filter
 
 methods
+
+# Numpy arrays essentially come in two flavors: vectors and matrices. Vectors are strictly 1-d arrays and matrices are 2-d (but you should note a matrix can still have only one row or one column).
