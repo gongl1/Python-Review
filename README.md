@@ -1,8 +1,11 @@
 # Python-Review
 
 Data types
+
 Numbers
+
 Strings
+
 Printing
 Lists
 Dictionaries
